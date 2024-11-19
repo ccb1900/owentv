@@ -21,7 +21,7 @@
             "name": "💻电视直播",
             "type": 3,
             "api": "https://cdn.jsdelivr.net/gh/ccb1900/owentv@main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-            "ext": "OwenTV$https://cdn.jsdelivr.net/gh/ccb1900/owentv@main/HP20230319.txt#南风$https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#饭太硬$https://xhdwc.tk/tvlive.txt#影视范$https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#俊于$http://home.jundie.top:81/Cat/tv/live.txt#MV$http://我不是.肥猫.live/lives/mv.txt&&&https://api.caonm.net/api/mc/"
+            "ext": "OwenTV$https://cdn.jsdelivr.net/gh/ccb1900/owentv@main/HP20230319.txt#南风$https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/live.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#饭太硬$https://xhdwc.tk/tvlive.txt#影视范$https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#俊于$http://home.jundie.top:81/Cat/tv/live.txt#MV$http://我不是.肥猫.live/lives/mv.txt&&&https://api.caonm.net/api/mc/"
         },
         {
             "key": "厦新金曲",
