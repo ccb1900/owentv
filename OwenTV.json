@@ -1117,14 +1117,14 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/ccb1900/owentv@main/HP20230319.txt",
+            "url": "https://live.zbds.top/tv/iptv6.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://diyp11111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/{name}.png"
+            "logo": "https://gh-proxy.com/github.com/owen2000wy/taibiao/main/{name}.png"
         }
     ],
-    "logo": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/LiuHua.gif",
+    "logo": "https://gh-proxy.com/github.com/yoursmile66/TVBox/main/sub/LiuHua.gif",
     "rules": [
         {
             "name": "proxy",
